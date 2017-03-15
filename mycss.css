@@ -1,0 +1,10 @@
+#button{
+	height: 100%;
+}
+.mylink{
+	height: 100%;
+}
+.mylink a{
+	display: block;
+	height: 100%;
+}
